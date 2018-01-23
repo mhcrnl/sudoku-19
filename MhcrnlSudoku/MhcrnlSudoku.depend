@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516700486 source:/home/mhcrnl/2018Q1/C++/sudoku-19/MhcrnlSudoku/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<map>
+	<utility>
+	<algorithm>
+
